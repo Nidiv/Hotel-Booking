@@ -1,0 +1,39 @@
+.logo-name{
+    font-weight: 700;
+}
+
+#hero .container .row .col-6 .left{
+    position: relative;
+}
+
+.col-3 .btn .btn-discover{
+    color: aqua;
+}
+
+.col-3{
+    padding-left: 0;
+}
+
+#subheading{
+    color: #747579;
+    margin-top: 25.6px;
+    margin-bottom: 25.6px;
+}
+
+#discover{
+    font-weight: bold;
+    color: #5143D9;
+    background-color: #EEEDFC;
+}
+#hotel a{
+   color: #5143D9;
+   font-weight: 600;
+   align-items: center;
+}
+
+#hotel{
+    background-color: #EEEDFC;
+    border-radius: 8px;
+    display: flex;
+}
+
